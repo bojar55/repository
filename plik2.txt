@@ -1,3 +1,7 @@
 modyfikacja v2
 
+<<<<<<< HEAD
 modyfikacja do zadnia 8 2 repo
+=======
+zajecia 2  zadanie 8
+>>>>>>> 2bf73f1ce12aabd4dd0a020bffc1ad8c08f274b8
