@@ -7,4 +7,8 @@ modyfikacja v4
 
 zad2 zmiana
 
+<<<<<<< HEAD
 zad3 zmiana
+=======
+zad3 zmianav2
+>>>>>>> galez2
