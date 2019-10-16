@@ -6,3 +6,5 @@ modyfikacja v4
 
 
 zad2 zmiana
+
+zad3 zmiana
