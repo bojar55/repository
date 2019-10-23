@@ -8,3 +8,5 @@ modyfikacja v4
 zad2 zmiana
 
 zad3 zmiana
+
+zad3 v12 zmiana
